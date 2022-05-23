@@ -19,7 +19,7 @@ header{
     line-height: 10px;
 }
 
-li{
+.li{
     display: inline-block;
     margin: 50px;
 }
