@@ -19,7 +19,7 @@ header{
     line-height: 10px;
 }
 
-.li{
+li{
     display: inline-block;
     margin: 50px;
 }
@@ -108,6 +108,24 @@ input{
     font-size: 15px;
 }
 
-#serv{
-    border-radius: 0%;
+#erick{
+    margin-left: 50px;
+}
+
+.erick{
+    margin-left: 50px;
+}
+
+.foto{
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 3px solid rgb(111, 10, 226);
+}
+
+.fotoerick{
+    width: 400px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 3px solid rgb(111, 10, 226);
 }
