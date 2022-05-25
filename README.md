@@ -6,4 +6,4 @@ aplique no vscode
 
 executa o arquivo index.html
 
-e navegue pelos arquivos
+e navegue pelos arquivos em seu navegador
